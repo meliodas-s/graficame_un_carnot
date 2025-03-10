@@ -2,10 +2,13 @@
 -   Crear ProcesosAgrupados                                         [x]
 -   Hacer que ProcesosAgrupados pueda devolver las incognitas       [x]
     y los datos conocidos
--   2025-03-10 ... Se documenta entities/procesos.py para poder     [x]
+-   2025-03-10 ... Se documenta entities/procesos.py para poder     [ ]
     recordar lo que se hizo en un comienzo...
     Se recuerda lo importante que es documentar las cosas...
     No me acuerdo de nada.
+-   Organizar el codigo de la carpeta "Original" para poder         [ ]
+    extrapolar y hacer memoria ah que me referia en el
+    comentario de abajo.
 -   Devolver arrays para realizar graficas, que los arrays
     esten separados por nombre, osea un dict o puede ser una
     clase que me permita acceder a los datos de los 4
