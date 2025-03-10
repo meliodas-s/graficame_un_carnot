@@ -1,0 +1,14 @@
+-   Crear procesos                                                  [x]
+-   Crear ProcesosAgrupados                                         [x]
+-   Hacer que ProcesosAgrupados pueda devolver las incognitas       [x]
+    y los datos conocidos
+-   Devolver arrays para realizar graficas, que los arrays
+    esten separados por nombre, osea un dict o puede ser una
+    clase que me permita acceder a los datos de los 4
+    procesos. Es decir dependiendo de que tipo de grafica sea
+    (adiabatica, iso....) me devolvera un tipo de array u otro
+    es decir hara lo mismo que las funciones que tenia antes
+    de "grafia_adiabatica" etc.
+-   Crear solucionador                                              [ ]
+-   Animar particula                                                [ ]
+-   Animar embolo
